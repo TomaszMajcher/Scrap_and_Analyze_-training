@@ -1,0 +1,120 @@
+name;company;technology;job;location.city;location.country;salary.low;salary.high;salary.currency
+Senior Data Engineer;Showpad;['Data', 'SQL', 'Data Lake', 'Python'];data engineer;Wroclaw;PL;22000;30000;PLN
+Senior Data Engineer - Remote;Link Group;['Data', 'SQL', 'Data pipelines', 'Cloud computing'];data engineer;Zdalna;N/A;26880;31920;PLN
+Snowflake Data Engineer;GTV POLAND;['Data', 'Snowflake', 'ETL', 'Python'];data engineer;Zdalna;N/A;14000;18000;PLN
+Data Engineer;Finture;['Data', 'Bash', 'GCP', 'Storage'];data engineer;Warszawa;PL;20000;27000;PLN
+Senior Data Engineer (Azure);GetInData | Part of Xebia;['Data', 'Microsoft azure', 'Python', 'SQL'];data engineer;Zdalna;N/A;26880;33600;PLN
+Data Engineer;Sollers Consulting;['Data', 'Kafka', 'Spark', 'SQL'];data engineer;Wrocław;PL;17200;21000;PLN
+Remote Lead Data Engineer;Kingfisher plc.;['Data', 'Python', 'Data modelling', 'Azure'];data engineer;Zdalna;N/A;25000;29000;PLN
+Cybersecurity Engineer - Data Protection, Cracow;Genuine Parts Company;['Security', 'Degree', 'MDM', 'DLP'];data engineer;Kraków;PL;0;0;N/A
+Senior Data Engineer;AVENGA;['Data', 'BI', 'ETL', 'SQL'];data engineer;Zdalna;N/A;25200;28560;PLN
+Remote Senior Data Engineer;Avenga;['Data', 'Data Lake', 'DWH', 'Snowflake'];data engineer;Zdalna;N/A;0;0;N/A
+Lead Data Engineer;Digital Hub Warsaw at Bayer;['Data', 'Python', 'AWS', 'Snowflake'];data engineer;Warsaw;PL;25000;35000;PLN
+Python/Scala Software Engineer for Big Data;AXA IT Solutions;['Data', 'Python', 'Spark', 'Databricks'];data engineer;Warszawa;PL;15960;25200;PLN
+Data Engineer (Kafka) - Remote;Link Group;['Data', 'Kafka', 'SQL', 'Python'];data engineer;Zdalna;N/A;27000;31000;PLN
+Senior Big Data Engineer (Scala) - Data & AI;Allegro;['Data', 'Scala', 'Java', 'Hadoop'];data engineer;Warszawa;PL;16100;23200;PLN
+Senior Big Data Engineer (Scala/Python) - Data&AI;Allegro;['Data', 'Scala', 'Python', 'Java'];data engineer;Warszawa;PL;16100;23200;PLN
+Medior/Senior Data Engineer Scala;NIX Tech Kft.;['Data', 'Scala', 'SQL', 'Data engineering'];data engineer;Budapest;HU;8153;16306;PLN
+Data Engineer ETL/GCP;PKO Finat Sp. z o.o.;['Data', 'Bash', 'ETL', 'GCP'];data engineer;Warszawa;PL;13440;25200;PLN
+Data Engineer;JSS Associates;['Data', 'Spark', 'Hive', 'Hadoop'];data engineer;Zdalna;N/A;39900;48300;PLN
+Data Engineer - Product Catalogue ML;Allegro;['Data', 'Python', 'pandas', 'NumPy'];data engineer;Poznań;PL;12300;17600;PLN
+Software Engineer (Java, Big Data Team) - Data&AI;Allegro;['Data', 'Java', 'Scala', 'Kotlin'];data engineer;Warszawa;PL;12300;17600;PLN
+Data Engineer (Mid/Senior);Addepto;['Data', 'Python', 'Spark', 'SQL'];data engineer;Zdalna;N/A;18000;28560;PLN
+Data Engineer;SNI;['Data', 'Python', 'Data warehouses', 'XML'];data engineer;Zdalna;N/A;18480;26880;PLN
+Big Data Engineer;Reply Polska;['Data', 'Spark', 'K8s', 'Docker'];data engineer;Katowice;PL;9000;16000;PLN
+Data Engineer MSM;Siemens Healthineers;['Data', 'SQL', 'T-SQL', 'Microsoft SQL Server'];data engineer;Zdalna;N/A;11000;21000;PLN
+Senior Data Engineer;Ferrosan Medical Devices;['Data', 'Python', 'JavaScript', 'TFS'];data engineer;Szczecin;PL;14000;27000;PLN
+Senior Software Engineer (Data Clean Rooms);Snowflake;['Backend', 'Java', 'Algorithms', 'Distributed systems'];data engineer;Warsaw;PL;30000;60000;PLN
+Medior/Senior Business Data Analyst / BI engineer;NIX Tech Kft.;['Business Analysis', 'Hungarian Language', 'DWH', 'SQL'];data engineer;Budapest;HU;5979;11958;PLN
+Data Engineer (mid/senior);ARDURA Consulting;['Data', 'Python', 'SQL', 'ETL'];data engineer;Zdalna;N/A;16800;27720;PLN
+Data Platform Engineer;VirtusLab;['Data', 'Java', 'Big data', 'Beam'];data engineer;Zdalna;N/A;26000;31000;PLN
+Remote Azure Data Engineer;Infosys Consulting;['Data', 'SQL', 'Spark', 'ETL'];data engineer;Zdalna;N/A;20000;32000;PLN
+Remote Data Engineer;Infosys Consulting;['Data', 'Python', 'SQL', 'Spark'];data engineer;Zdalna;N/A;20000;32000;PLN
+Senior Data Engineer;Adaptiq;['Data', 'Python', 'Spark', 'Kafka'];data engineer;Zdalna;N/A;25520;27483;PLN
+Data Engineer;ITMatch;['Data', 'Python', 'SQL', 'AWS'];data engineer;Cracow;PL;16000;20000;PLN
+Lead/ Senior Data Engineer with AWS;Altimetrik Poland;['Data', 'Python', 'AWS', 'ETL'];data engineer;Zdalna;N/A;22000;30000;PLN
+Data Engineer;VirtusLab;['Data', 'Python', 'SQL', 'Data modeling'];data engineer;Zdalna;N/A;26000;31000;PLN
+Senior SQL Data Engineer;Link Group;['Data', 'SQL', 'Data pipelines', 'dbt'];data engineer;Kraków;PL;24000;28000;PLN
+Data Engineer;Avenga;['Business Intelligence', 'BI', 'ETL', 'DWH'];data engineer;Warszawa;PL;25200;31080;PLN
+Data Platform Engineer/Consultant;Elitmind;['Business Intelligence', 'English', 'SQL', 'ETL'];data engineer;Zdalna;N/A;13944;19992;PLN
+Mid Data & AI Engineer FULLY REMOTE;Nest Bank;['Data', 'Python', 'Big data', 'AI'];data engineer;Zdalna;N/A;15000;22000;PLN
+Data Warehouse Engineer with AWS and PBI;Sigma IT Poland;['Business Intelligence', 'Power BI', 'Gateway', 'Requirements gathering'];data engineer;Zdalna;N/A;19320;22680;PLN
+Data Engineer;Profitroom;['Data', 'Spark', 'Data engineering', 'Data pipelines'];data engineer;Zdalna;N/A;14900;21400;PLN
+Data Engineer II - Fulfillment;Tesco Technology;['Data', 'Scala', 'Hadoop', 'Kafka'];data engineer;Kraków;PL;20000;30000;PLN
+AWS Data Engineer;Jacobs;['Data', 'AWS', 'AWS Cloud', 'ETL'];data engineer;Krakow;PL;0;0;N/A
+Senior Data Engineer;Jacobs;['Data', 'SQL', 'Data engineering', 'Product development'];data engineer;Krakow;PL;0;0;N/A
+Data Engineer;Sii Polska;['Data', 'Hadoop', 'Spark', 'Python'];data engineer;Warszawa;PL;16800;24150;PLN
+Junior Data Engineer Python;NIX Tech Kft.;['Data', 'Data engineer', 'Python', 'SQL'];data engineer;Budapest;HU;8696;11958;PLN
+Junior Data Engineer Scala;NIX Tech Kft.;['Data', 'Scala', 'SQL', 'PostgreSQL'];data engineer;Budapest;HU;8696;11958;PLN
+Senior Data Engineer (Snowflake);GetInData | Part of Xebia;['Data', 'Snowflake', 'Python', 'SQL'];data engineer;Zdalna;N/A;26880;33600;PLN
+Data Engineer;Team Connect Sp. z o.o.;['Data', 'Databricks', 'Azure', 'Teradata'];data engineer;Zdalna;N/A;30240;33600;PLN
+Remote Mid Data Engineer;Kingfisher plc.;['Data', 'Python', 'AWS', 'Data modelling'];data engineer;Zdalna;N/A;15000;19000;PLN
+Sr Data Engineer;Instructure Hungary Kft;['Data', 'Scala', 'Data engineering', 'Cloud'];data engineer;Budapest;HU;17393;23916;PLN
+Data Engineer;Team Connect Sp. z o.o.;['Data', 'Hadoop', 'Scala', 'Python'];data engineer;Zdalna;N/A;18480;23520;PLN
+Senior Data and AI Engineer (NLP);GetInData | Part of Xebia;['AI', 'Azure', 'Python', 'Databricks'];data engineer;Zdalna;N/A;25200;33600;PLN
+Data Engineer (Trust Assurance);Allegro;['Data', 'SQL', 'Python', 'ML'];data engineer;Warszawa;PL;12300;17600;PLN
+Geospatial Data Engineer - Location Intelligence;Allegro;['Data', 'GIS', 'PostgreSQL', 'PostGIS'];data engineer;Warszawa;PL;12300;17600;PLN
+Lead Data Software Engineer (Python, Azure);EPAM Systems;['Data', 'Python', 'Azure Data Factory', 'Azure Databricks'];data engineer;Zdalna;N/A;24900;29400;PLN
+Medior/Senior Data Engineer Python;NIX Tech Kft.;['Data', 'Python', 'SQL', 'Data engineering'];data engineer;Budapest;HU;8153;16306;PLN
+Data Engineer;DS STREAM;['Data', 'Python', 'Azure', 'Databricks'];data engineer;Zdalna;N/A;20160;30240;PLN
+Data Engineer III - Forecasting;Tesco Technology;['Data', 'Python', 'Hadoop', 'Spark'];data engineer;Kraków;PL;26000;40000;PLN
+Data Engineer III - Fulfillment;Tesco Technology;['Data', 'Scala', 'Hadoop', 'Kafka'];data engineer;Kraków;PL;26000;40000;PLN
+Data Engineer II - Forecasting;Tesco Technology;['Data', 'Python', 'Spark', 'Hadoop'];data engineer;Kraków;PL;20000;30000;PLN
+Data Engineer (Support team);Centrum Informatyki Statystycznej;['Data', 'Spark', 'SQL', 'Python'];data engineer;Warszawa;PL;8000;14000;PLN
+Senior Software Developer;Webinterpret Poland Sp. z o.o.;['Backend', 'Data engineer', 'Python', 'RabbitMQ'];data engineer;Zdalna;N/A;18500;25000;PLN
+Solution Architect GCP;Lingaro;['Architecture', 'Data engineer', 'GCP', 'Communication skills'];data engineer;Zdalna;N/A;28560;36960;PLN
+Senior Data Engineering Manager;Capital.com;['Data', 'Data engineer', 'Spark', 'AWS'];data engineer;Warszawa;PL;30000;45000;PLN
+Inżynier / Analityk danych;Dogtronic Solutions;['Data', 'Data engineer', 'SQL', 'BigQuery'];data engineer;Warszawa;PL;19950;28350;PLN
+Senior NLP Data Scientist;Adaptiq;['Data', 'Python', 'NLP', 'Deep learning'];data scientist;Zdalna;N/A;21594;27483;PLN
+Senior Data Scientist;Team Connect Sp. z o.o.;['Data', 'Python', 'ISO', 'Machine learning'];data scientist;Zdalna;N/A;20160;25200;PLN
+Analityk Danych BI (Data Scientist);Finture;['Business Analysis', 'Python', 'PostgreSQL', 'BI'];data scientist;Zdalna;N/A;15000;22000;PLN
+Senior Data Scientist;Spyrosoft;['AI', 'Python', 'Scala', 'angielski'];data scientist;Zdalna;N/A;25200;33600;PLN
+Data Scientist;Link Group;['Data', 'SQL', 'SQL Server', 'Microsoft SQL Server'];data scientist;Zdalna;N/A;18000;24000;PLN
+REMOTE Senior Data Scientist;Link Group;['Data', 'Azureml', 'LLMs', 'ML'];data scientist;Zdalna;N/A;16800;23520;PLN
+Junior Data Scientist;NIX Tech Kft.;['Data', 'Data science', 'Machine learning', 'SQL'];data scientist;Budapest;HU;6522;11958;PLN
+Medior Data Scientist;NIX Tech Kft.;['Data', 'Data science', 'Machine learning', 'SQL'];data scientist;Budapest;HU;9783;17393;PLN
+Senior Data Scientist (AzureML + Python);1dea;['AI', 'Python', 'Machine learning', 'AI'];data scientist;Zdalna;N/A;31080;36120;PLN
+Data Scientist;Devire;['AI', 'Python', 'SQL', 'T-SQL'];data scientist;Gdynia;PL;16800;21840;PLN
+Data Scientist/Data Analyst;Object First;['Data', 'Python', 'Power BI', 'Jupyter'];data scientist;Zdalna;N/A;24000;36000;PLN
+Senior Data Scientist REMOTE 🌍;Sigmoidal LLC;['AI', 'Python', 'AWS', 'scikit-learn'];data scientist;Zdalna;N/A;26698;33176;PLN
+Data Scientist;Numlabs;['AI', 'Python', 'AWS', 'TensorFlow'];data scientist;Zdalna;N/A;9000;14000;PLN
+Senior Data Scientist;SKY ENGINE AI;['AI', 'Computer vision', 'Segmentation', 'Machine learning'];data scientist;Warsaw;PL;20000;28000;PLN
+Senior Data Scientist;Ardigen;['Data', 'Python', 'Data science', 'Deep learning'];data scientist;Zdalna;N/A;16000;23000;PLN
+Remote Senior Data Scientist (Credit Risk);KRA Consulting;['Data', 'Python', 'SQL', 'STEM degree'];data scientist;Zdalna;N/A;18000;28000;PLN
+Data Scientist - Customer Success;dotData;['Data', 'Python', 'SQL', 'Machine learning'];data scientist;Warszawa;PL;21594;31409;PLN
+Lead Data Scientist;Addepto;['AI', 'Python', 'Deep learning', 'Machine learning'];data scientist;Zdalna;N/A;19000;34000;PLN
+Senior Data Scientist;Reply Polska;['AI', 'Python', 'Machine learning', 'AWS'];data scientist;Katowice;PL;16000;22000;PLN
+Senior Machine Learning Platform Engineer;SNI;['Data', 'Data scientist', 'Python', 'K8s'];data scientist;Zdalna;N/A;27720;33600;PLN
+Cloud Architect;Unit8 SA;['Architecture', 'Data scientist', 'AWS', 'Data engineering'];data scientist;Kraków;PL;25000;32000;PLN
+Cloud Architect;Unit8 SA;['Architecture', 'Data scientist', 'AWS', 'Data engineering'];data scientist;Wrocław;PL;25000;32000;PLN
+Inżynier / Analityk danych;Dogtronic Solutions;['Data', 'Data scientist', 'SQL', 'BigQuery'];data scientist;Warszawa;PL;19950;28350;PLN
+Senior Data Analyst - Tech Support;RTB House;['Data', 'Python', 'SQL', 'Node.js'];data analyst;Zdalna;N/A;15000;22000;PLN
+Data Analyst;emagine Sp. Z o.o.;['Data', 'Python', 'Jira', 'Confluence'];data analyst;Kraków;PL;18480;20160;PLN
+Senior Data Quality Management Analyst;Mindbox S.A.;['Data', 'GCP', 'IT', 'Team management'];data analyst;Cracow;PL;21000;26250;PLN
+Data Analyst;Link Group;['Data', 'SQL', 'Python', 'Tableau'];data analyst;Zdalna;N/A;16000;21000;PLN
+Product Data Analyst;STS S.A.;['Data', 'SQL', 'GTM', 'BigQuery'];data analyst;Katowice;PL;15000;18000;PLN
+Expert Data Analyst;emagine Sp. Z o.o.;['Data', 'Business Analyst', 'SQL', 'SAS'];data analyst;Gdańsk;PL;25200;28560;PLN
+REMOTE Senior Data Analyst;Link Group;['Data', 'SQL', 'Excel', 'Tableau'];data analyst;Zdalna;N/A;18480;25200;PLN
+Analytics Engineer;VOLT.io Open Banking Payments;['Data', 'Data analyst', 'Python', 'Data science'];data analyst;Warszawa;PL;0;0;N/A
+Data Analyst;Ferrosan Medical Devices;['Data', 'Python', 'JavaScript', 'TFS'];data analyst;Szczecin;PL;11000;22000;PLN
+Senior Data Analyst;Justpoint;['Business Analysis', 'SQL', 'PostgreSQL', 'BigQuery'];data analyst;Zdalna;N/A;13741;21594;PLN
+Medior/Senior Business Data Analyst / BI engineer;NIX Tech Kft.;['Business Analysis', 'Hungarian Language', 'DWH', 'SQL'];data analyst;Budapest;HU;5979;11958;PLN
+Data Scientist/Data Analyst;Object First;['Data', 'Python', 'Power BI', 'Jupyter'];data analyst;Zdalna;N/A;24000;36000;PLN
+Data Analyst (SAP);Team Connect Sp. z o.o.;['Data', 'SAP', 'Data models', 'SAP BW'];data analyst;Zdalna;N/A;23500;28500;PLN
+Lead BI Analyst / Data Business Analyst;EPAM Systems;['Data', 'SQL', 'BI', 'Business Analyst'];data analyst;Warsaw;PL;22400;25400;PLN
+Data Analyst - Researcher;ALM Services Technology Group;['Data', 'SQL', 'Excel', 'English'];data analyst;Budapest;HU;4565;5000;PLN
+Senior Data Analyst;Devire;['Data', 'SQL', 'Power BI', 'Tableau'];data analyst;Kraków;PL;17000;20000;PLN
+Remote Data Migration Analyst;Link Group;['Data', 'SQL', 'VBA', 'Excel'];data analyst;Zdalna;N/A;20160;25200;PLN
+Senior Data Analyst;Avenga;['Data', 'Data analysis', 'ETL', 'Business analysis'];data analyst;Zdalna;N/A;21840;25200;PLN
+Junior Data Analyst;Finker;['Finanse', 'MS Excel', 'Zdolności analityczne', 'SQL'];data analyst;Zdalna;N/A;7000;11000;PLN
+Python Data Analyst / Programmer;Polskie Technologie;['Data', 'SQL', 'SQL Server', 'Python'];data analyst;Warszawa;PL;8700;15000;PLN
+Senior Data Analyst Consultant (Credit Risk);KRA Consulting;['Data', 'Python', 'SQL', 'STEM degree'];data analyst;Zdalna;N/A;16000;24000;PLN
+Data Analyst (SAS);Connectis_;['Data', 'SAS', 'SQL', 'polski'];data analyst;Poznań;PL;16000;19500;PLN
+Data Science & Business Analyst;Devire;['Data', 'Python', 'SQL', 'Power BI'];data analyst;Gdańsk;PL;10000;14000;PLN
+Performance Marketing Specialist;Beloud Creative Agency;['Marketing', 'Data analyst', 'Google Analytics', 'Facebook Ads'];data analyst;Kraków;PL;7000;12000;PLN
+Senior Data Scientist;Team Connect Sp. z o.o.;['Data', 'Data analyst', 'Python', 'ISO'];data analyst;Zdalna;N/A;20160;25200;PLN
+DevOps Engineer (DataOps);Avenga;['DevOps', 'Data analyst', 'Python', 'SQL'];data analyst;Zdalna;N/A;27720;31080;PLN
+Data Engineer;Avenga;['Business Intelligence', 'Data analyst', 'BI', 'ETL'];data analyst;Warszawa;PL;25200;31080;PLN
+Data Engineer;Profitroom;['Data', 'Data analyst', 'Spark', 'Data engineering'];data analyst;Zdalna;N/A;14900;21400;PLN
+Inżynier / Analityk danych;Dogtronic Solutions;['Data', 'Data analyst', 'SQL', 'BigQuery'];data analyst;Warszawa;PL;19950;28350;PLN
+Data Engineer (Trust Assurance);Allegro;['Data', 'Data analyst', 'SQL', 'Python'];data analyst;Warszawa;PL;12300;17600;PLN
